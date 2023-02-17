@@ -1,0 +1,398 @@
+.team-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card {
+  font-family: "montserrat", sans-serif;
+  width: 250px;
+  overflow: hidden;
+  background: #fff;
+  /*box-shadow: 3px 3px 18px -8px rgba(0,0,0,.25);*/
+  border: 1px solid rgba(8, 43, 87, 0.2);
+  color: #424242;
+  margin: 20px auto;
+  display: inline-block;
+}
+
+.card label:hover {
+  cursor: pointer !important;
+}
+
+.modal-open {
+  display: flex;
+  flex-direction: column;
+  font-family: Montserrat, sans-serif;
+  color: #082b57;
+  padding-bottom: 18px;
+}
+
+.modal-open img {
+}
+
+.staff-member-copy {
+  padding-top: 12px;
+}
+
+.staff-member-copy h1 {
+  font-weight: 600;
+  color: #082b57;
+  margin-bottom: 4px;
+  font-size: 1.35rem;
+  line-height: 1.5rem;
+  text-align: center;
+}
+
+.staff-member-copy h2 {
+  font-size: 0.85rem;
+  line-height: 1.2rem;
+  text-align: center;
+}
+
+.modal-label {
+  position: relative;
+}
+
+.modal-radio {
+  position: absolute;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.modal,
+.modal2,
+.modal3,
+.modal4,
+.modal5,
+.modal6,
+.modal7,
+.modal8,
+.modal9,
+.modal10,
+.modal11,
+.modal12,
+.modal13,
+.modal14,
+.modal15,
+.modal16,
+.modal17,
+.modal18,
+.modal19,
+.modal20,
+.modal21,
+.modal22 {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  opacity: 0;
+  transform: scale(0);
+  transition: opacity 0.25s, transform 0.25s;
+  z-index: 99;
+}
+
+.modal2-dead {
+  transform: scale(0.8) translate(0, -100%);
+  transition: transform 0.35s, opacity 0.35s;
+}
+
+.modal3-dead {
+  transform: translate(0, 100%) scale(0.9);
+}
+
+.modal4-dead {
+  transform: scale(0) rotate(180deg);
+}
+
+#modal-open:checked + .modal {
+  opacity: 1;
+  transform: scale(1);
+}
+
+#modal-open2:checked + .modal2 {
+  transform: scale(1) translate(0, 0);
+  opacity: 1;
+}
+
+#modal-open3:checked + .modal3 {
+  transform: scale(1) translate(0, 0);
+  opacity: 1;
+}
+
+#modal-open4:checked + .modal4 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+#modal-open5:checked + .modal5 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+#modal-open6:checked + .modal6 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+#modal-open7:checked + .modal7 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+#modal-open8:checked + .modal8 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+#modal-open9:checked + .modal9 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+#modal-open10:checked + .modal10 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+#modal-open10:checked + .modal10 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+#modal-open11:checked + .modal11 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+#modal-open12:checked + .modal12 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+#modal-open13:checked + .modal13 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+#modal-open14:checked + .modal14 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+#modal-open15:checked + .modal15 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+#modal-open16:checked + .modal16 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+#modal-open17:checked + .modal17 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+#modal-open18:checked + .modal18 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+#modal-open19:checked + .modal19 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+#modal-open20:checked + .modal20 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+#modal-open21:checked + .modal21 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+#modal-open22:checked + .modal22 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+/* Natalie Dilivio */
+#modal-open23:checked + .modal23 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+/* Paige Heisser */
+#modal-open24:checked + .modal24 {
+  transform: scale(1) rotate(0deg);
+  opacity: 1;
+}
+
+.overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  top: 0;
+  left: 0;
+}
+
+.modal .content {
+  position: absolute;
+  overflow-y: scroll;
+  width: 90%;
+
+  max-height: 85%;
+  top: 10%;
+  left: 4%;
+  background: #fff;
+  box-shadow: 0 3px 15px -2px #222;
+  padding: 20px;
+}
+
+.modal .content-contain {
+}
+
+.close-btn {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 10px;
+  right: 20px;
+  border-radius: 50%;
+  border: 2px solid #082b57;
+  cursor: pointer;
+}
+
+.close-btn:after,
+.close-btn:before {
+  content: "";
+  position: absolute;
+  width: 70%;
+  height: 2px;
+  background: #082b57;
+  left: 15%;
+  top: 50%;
+  top: calc(50% - 1px);
+  transform-origin: 50% 50%;
+  transform: rotate(45deg);
+}
+
+.close-btn:before {
+  transform: rotate(-45deg);
+}
+
+.action-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #4caf50;
+  color: #fff;
+  border-radius: 15px;
+}
+
+.linkedin-link {
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+}
+
+/*
+.h-grow img
+
+.h-grow:hover img,
+.h-grow:focus img,
+.h-grow:active img,
+*/
+
+.linkedin-link:hover,
+.linkedin-link:focus,
+.linkedin-link:active {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.listee {
+  list-style-type: disc;
+  padding-left: 15px;
+}
+
+.img-profile-modal {
+  max-width: 250px !important;
+}
+
+.modal-contain > .content-contain {
+  font-family: "montserrat", sans-serif;
+  background-image: url("https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/gx/bg-mesh-staff-4.png");
+  background-size: cover;
+}
+
+.modal-contain p {
+  color: #545454;
+  margin-bottom: 18px;
+}
+
+.modal-contain h1 {
+  font-family: "montserrat", sans-serif;
+  font-size: 2.75rem;
+  font-weight: 800;
+  line-height: 3rem;
+  text-transform: uppercase;
+  color: #003780;
+}
+
+.modal-contain h2 {
+  font-size: 1.8rem;
+  line-height: 2rem;
+  color: #003780;
+}
+
+.modal-contain .title-n-icon {
+  margin-bottom: 15px;
+}
+
+.modal-contain .pro-title,
+.modal-contain h3 {
+  font-size: 1.2rem;
+  color: #003780;
+  margin-bottom: 30px;
+}
+
+.modal-contain .content-body li {
+  margin-bottom: 9px;
+}
+
+.icon-linkedin {
+  max-width: 45px;
+}
+
+.card {
+  background-image: url("https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/gx/gx-corner-arrow-5@3x.png");
+  background-size: 50px;
+  background-position: right -3px bottom -3px;
+  background-repeat: no-repeat;
+  transition: all 0.2s ease;
+}
+
+.card:hover {
+  background-position: right bottom;
+}
+
+.linkedin-desktop {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .linkedin-desktop {
+    display: block;
+  }
+}

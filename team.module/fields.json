@@ -1,0 +1,1717 @@
+[ {
+  "id" : "96dd3187-31af-24a6-e50d-1f8557a1a945",
+  "name" : "mike_pruente",
+  "display_width" : null,
+  "label" : "Mike Pruente",
+  "required" : false,
+  "locked" : false,
+  "children" : [ {
+    "id" : "4975270c-5ef4-f9c8-eebb-c775543d1c3d",
+    "name" : "member_name",
+    "display_width" : null,
+    "label" : "Member Name",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "First Last",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "First Last"
+  }, {
+    "id" : "e6c29063-685b-2841-75d4-922ea1fdf644",
+    "name" : "title",
+    "display_width" : null,
+    "label" : "Title",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "Title",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "Title"
+  }, {
+    "id" : "4046423a-8997-0d2b-3c95-2aebb23f144a",
+    "name" : "card_image",
+    "display_width" : null,
+    "label" : "Card Image (400x400)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_mike-pruente.jpg",
+      "alt" : "Mike Pruente",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    }
+  }, {
+    "id" : "6c677725-bbfc-48b5-2320-7657b124d034",
+    "name" : "linkedin_url",
+    "display_width" : null,
+    "label" : "Linkedin URL",
+    "required" : false,
+    "locked" : false,
+    "supported_types" : [ "EXTERNAL", "CONTENT", "FILE", "EMAIL_ADDRESS", "BLOG" ],
+    "type" : "url",
+    "default" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    }
+  }, {
+    "id" : "c4e4a8cd-7830-adfd-f271-e6c0b6a51d58",
+    "name" : "profile_image",
+    "display_width" : null,
+    "label" : "Profile Image (650x780)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/mike-pruente.jpg",
+      "alt" : "Mike Pruente",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    }
+  }, {
+    "id" : "697537da-531b-8fb4-bef9-f95009e72cdf",
+    "name" : "member_profile",
+    "display_width" : null,
+    "label" : "Member Profile",
+    "required" : false,
+    "locked" : false,
+    "type" : "richtext",
+    "default" : "<p>Mike serves as the President of Workforce Transformation Services at WG Consulting. He has over 15 years of experience in building and leading teams in the Supply Chain, Human Resources, and Contingent Workforce areas. Mike is recognized for his ability to leverage Supply Chain, Human Resources, and Contingent Workforce Leading Practices into fit for purpose solutions for multiple fortune 500 companies. He is a certified Contingent Workforce Professional by Staffing Industry Analysts and has strong industry experience and interpersonal skills to deliver the most challenging projects and programs. He is focused on building high performance teams with proven skills to enable and support growing organizations. He has led large scale projects at Molina Healthcare, City of Hope, Waste Management, Shell Oil and ConocoPhillips. His core expertise includes extensive experience gathering business requirements, developing executive level business cases, category management, strategic sourcing, Supply Chain optimization, risk mitigation, organizational change management, business process redesign, project planning and project management.</p>\n<h2 class=\"text-center md:text-left mb-3\">Representative Experience</h2>\n<ul class=\"listee\">\n<li>Designed and implemented a Affordable Healthcare Act compliance process for a large health system</li>\n<li>Engaged corporate leadership to design and establish policies and procedures to govern the entire workforce</li>\n<li>Led a large consulting engagement of 20 plus consultants identifying and fixing gaps within Human Resources, Finance, Accounting, and IT</li>\n<li>Supported a healthcare executive with organizational design work for the corporate board</li>\n<li>Established a MSP operating model at WG Consulting for a large healthcare system</li>\n<li>Conducted a E&amp;P market analysis to determine peer group opportunities for a large E&amp;P company</li>\n<li>Managed an Americas support services organization responsible for $1.5B in annual spend, program compliance, and global analytics</li>\n<li>Led the global implementation of a Managed Service Provider (MSP) and Vendor Management System (VMS) tasks included requirements gathering, business case development, stakeholder management, organizational change management, system and process design, communications planning and execution, project management, and program execution</li>\n<li>Responsible for establishing a category management structure and strategy for approximately 20,000 suppliers and $3B in annual spend</li>\n<li>Implemented a Recruitment Process Outsourcing solution to support the creation of a fortune 100 company during a spin off</li>\n<li>Developed a global strategy to reduce the existing contingent labor supplier base by 60%, which resulted in a $10 million savings in annual cost</li>\n<li>Designed the first oil and gas industrial labor VMS implementation to support a refinery turnaround</li>\n</ul>"
+  } ],
+  "tab" : "CONTENT",
+  "expanded" : false,
+  "type" : "group",
+  "default" : {
+    "member_name" : "First Last",
+    "title" : "Title",
+    "card_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_mike-pruente.jpg",
+      "alt" : "Mike Pruente",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    },
+    "linkedin_url" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    },
+    "profile_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/mike-pruente.jpg",
+      "alt" : "Mike Pruente",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    },
+    "member_profile" : "<p>Mike serves as the President of Workforce Transformation Services at WG Consulting. He has over 15 years of experience in building and leading teams in the Supply Chain, Human Resources, and Contingent Workforce areas. Mike is recognized for his ability to leverage Supply Chain, Human Resources, and Contingent Workforce Leading Practices into fit for purpose solutions for multiple fortune 500 companies. He is a certified Contingent Workforce Professional by Staffing Industry Analysts and has strong industry experience and interpersonal skills to deliver the most challenging projects and programs. He is focused on building high performance teams with proven skills to enable and support growing organizations. He has led large scale projects at Molina Healthcare, City of Hope, Waste Management, Shell Oil and ConocoPhillips. His core expertise includes extensive experience gathering business requirements, developing executive level business cases, category management, strategic sourcing, Supply Chain optimization, risk mitigation, organizational change management, business process redesign, project planning and project management.</p>\n<h2 class=\"text-center md:text-left mb-3\">Representative Experience</h2>\n<ul class=\"listee\">\n<li>Designed and implemented a Affordable Healthcare Act compliance process for a large health system</li>\n<li>Engaged corporate leadership to design and establish policies and procedures to govern the entire workforce</li>\n<li>Led a large consulting engagement of 20 plus consultants identifying and fixing gaps within Human Resources, Finance, Accounting, and IT</li>\n<li>Supported a healthcare executive with organizational design work for the corporate board</li>\n<li>Established a MSP operating model at WG Consulting for a large healthcare system</li>\n<li>Conducted a E&amp;P market analysis to determine peer group opportunities for a large E&amp;P company</li>\n<li>Managed an Americas support services organization responsible for $1.5B in annual spend, program compliance, and global analytics</li>\n<li>Led the global implementation of a Managed Service Provider (MSP) and Vendor Management System (VMS) tasks included requirements gathering, business case development, stakeholder management, organizational change management, system and process design, communications planning and execution, project management, and program execution</li>\n<li>Responsible for establishing a category management structure and strategy for approximately 20,000 suppliers and $3B in annual spend</li>\n<li>Implemented a Recruitment Process Outsourcing solution to support the creation of a fortune 100 company during a spin off</li>\n<li>Developed a global strategy to reduce the existing contingent labor supplier base by 60%, which resulted in a $10 million savings in annual cost</li>\n<li>Designed the first oil and gas industrial labor VMS implementation to support a refinery turnaround</li>\n</ul>"
+  }
+}, {
+  "id" : "6763a981-c1a4-c8c0-f620-bd7fe8f55044",
+  "name" : "whitney_cox",
+  "display_width" : null,
+  "label" : "Whitney Cox",
+  "required" : false,
+  "locked" : false,
+  "children" : [ {
+    "id" : "14cbe3ec-b75f-4e89-0ed4-a5582d2e427f",
+    "name" : "member_name",
+    "display_width" : null,
+    "label" : "Member Name",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "First Last",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "First Last"
+  }, {
+    "id" : "bbf0a978-fac2-4ac2-637b-5a966f053025",
+    "name" : "title",
+    "display_width" : null,
+    "label" : "Title",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "Title",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "Title"
+  }, {
+    "id" : "52644bc8-6936-8da0-243f-9e9e68e39689",
+    "name" : "card_image",
+    "display_width" : null,
+    "label" : "Card Image (400x400)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_whitney-cox.jpg",
+      "alt" : "Whitney Cox",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    }
+  }, {
+    "id" : "992cfb9c-6d70-c77e-32d9-841f70bb0194",
+    "name" : "linkedin_url",
+    "display_width" : null,
+    "label" : "Linkedin URL",
+    "required" : false,
+    "locked" : false,
+    "supported_types" : [ "EXTERNAL", "CONTENT", "FILE", "EMAIL_ADDRESS", "BLOG" ],
+    "type" : "url",
+    "default" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    }
+  }, {
+    "id" : "7a597c6d-1581-e6d9-d974-2fa4a55a3c3d",
+    "name" : "profile_image",
+    "display_width" : null,
+    "label" : "Profile Image (650x780)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/whitney-cox.jpg",
+      "alt" : "Whitney Cox",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    }
+  }, {
+    "id" : "375d47c8-e094-933c-c05a-6472f3b18f53",
+    "name" : "member_profile",
+    "display_width" : null,
+    "label" : "Member Profile",
+    "required" : false,
+    "locked" : false,
+    "type" : "richtext",
+    "default" : "<p>Whitney is a Managing Director at WG Consulting. Whitney is a Labor Advisory professional (PHR) with over 10 years of comprehensive HR experience including organizational development, workforce planning, compliance management, change management, labor relations, and benefits administration. Before joining WG Consulting, Whitney held several HR leadership roles for several Oil &amp; Gas companies. Proven experience collaborating with executive management to create and implement complex labor models to deliver competitive results across enterprises.</p>\n<h2 class=\"text-center md:text-left mb-3\">Representative Experience</h2>\n<ul class=\"listee\">\n<li>Engaged with executive suite to design and implement workforce policies and procedures for a major healthcare company</li>\n<li>Designed and implemented several Business Outsourcing Services models for organizations (Procurement &amp; HR Departments)</li>\n<li>Performed a workforce and benefits analysis for a Houston based energy company and led the restructuring effort implementing all new employee benefits in less than 3 months</li>\n<li>Engaged by a large hospital system to perform a thorough benefits review and gap analysis. Identified and implemented 401K improvements resulting in significant cost recovery and compliance</li>\n<li>Led various HR organizations through PE backed mergers, acquisitions and bankruptcies ensuring a lean and effective operating model hitting balance sheet targets</li>\n<li>Developed and implemented a process to complete the Affordable Healthcare Act reporting requirements for a large healthcare company. Performed leadership role in writing the ASC 450 report to be submitted with the company’s 10k</li>\n<li>Supported the executive team through M&amp;A due diligence process ensuring effective organizational baseline to continue operational excellence through the lifecycle of the transaction</li>\n<li>Designed an MSP service offering for a healthcare company and replaced one of the largest MSP providers in the market</li>\n<li>Led several corporate responses to a regulatory workforce audit resulting in no findings</li>\n<li>Established and led the training and development department for a global manufacturing company</li>\n</ul>"
+  } ],
+  "tab" : "CONTENT",
+  "expanded" : false,
+  "type" : "group",
+  "default" : {
+    "member_name" : "First Last",
+    "title" : "Title",
+    "card_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_whitney-cox.jpg",
+      "alt" : "Whitney Cox",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    },
+    "linkedin_url" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    },
+    "profile_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/whitney-cox.jpg",
+      "alt" : "Whitney Cox",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    },
+    "member_profile" : "<p>Whitney is a Managing Director at WG Consulting. Whitney is a Labor Advisory professional (PHR) with over 10 years of comprehensive HR experience including organizational development, workforce planning, compliance management, change management, labor relations, and benefits administration. Before joining WG Consulting, Whitney held several HR leadership roles for several Oil &amp; Gas companies. Proven experience collaborating with executive management to create and implement complex labor models to deliver competitive results across enterprises.</p>\n<h2 class=\"text-center md:text-left mb-3\">Representative Experience</h2>\n<ul class=\"listee\">\n<li>Engaged with executive suite to design and implement workforce policies and procedures for a major healthcare company</li>\n<li>Designed and implemented several Business Outsourcing Services models for organizations (Procurement &amp; HR Departments)</li>\n<li>Performed a workforce and benefits analysis for a Houston based energy company and led the restructuring effort implementing all new employee benefits in less than 3 months</li>\n<li>Engaged by a large hospital system to perform a thorough benefits review and gap analysis. Identified and implemented 401K improvements resulting in significant cost recovery and compliance</li>\n<li>Led various HR organizations through PE backed mergers, acquisitions and bankruptcies ensuring a lean and effective operating model hitting balance sheet targets</li>\n<li>Developed and implemented a process to complete the Affordable Healthcare Act reporting requirements for a large healthcare company. Performed leadership role in writing the ASC 450 report to be submitted with the company’s 10k</li>\n<li>Supported the executive team through M&amp;A due diligence process ensuring effective organizational baseline to continue operational excellence through the lifecycle of the transaction</li>\n<li>Designed an MSP service offering for a healthcare company and replaced one of the largest MSP providers in the market</li>\n<li>Led several corporate responses to a regulatory workforce audit resulting in no findings</li>\n<li>Established and led the training and development department for a global manufacturing company</li>\n</ul>"
+  }
+}, {
+  "id" : "6950a9cd-aba0-d64b-3b62-426ff93d0552",
+  "name" : "natalie_dilivio",
+  "display_width" : null,
+  "label" : "Natalie DiLivio",
+  "required" : false,
+  "locked" : false,
+  "children" : [ {
+    "id" : "e49f2354-7c33-72dc-c8a7-a6bf2ab7e4b2",
+    "name" : "member_name",
+    "display_width" : null,
+    "label" : "Member Name",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "First Last",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "First Last"
+  }, {
+    "id" : "56fe30b8-1e2f-c40f-3cb1-330122bcfbcb",
+    "name" : "title",
+    "display_width" : null,
+    "label" : "Title",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "Title",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "Title"
+  }, {
+    "id" : "5e99d907-8771-96ae-5abb-f0af820995d1",
+    "name" : "card_image",
+    "display_width" : null,
+    "label" : "Card Image (400x400)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/Staff/staff-modal/dilivio-card.jpeg",
+      "alt" : "Natalie Dilivio",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    }
+  }, {
+    "id" : "11ad9e31-5656-3eaf-b0d0-dcb822d469ee",
+    "name" : "linkedin_url",
+    "display_width" : null,
+    "label" : "Linkedin URL",
+    "required" : false,
+    "locked" : false,
+    "supported_types" : [ "EXTERNAL", "CONTENT", "FILE", "EMAIL_ADDRESS", "BLOG" ],
+    "type" : "url",
+    "default" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com/in/ndilivio/",
+      "content_id" : null
+    }
+  }, {
+    "id" : "3077013a-d367-7cfd-5670-59936db0be39",
+    "name" : "profile_image",
+    "display_width" : null,
+    "label" : "Profile Image (650x780)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/whitney-cox.jpg",
+      "alt" : "Whitney Cox",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    }
+  }, {
+    "id" : "80c6b005-3268-ec7f-7529-1670c1dd2a31",
+    "name" : "member_profile",
+    "display_width" : null,
+    "label" : "Member Profile",
+    "required" : false,
+    "locked" : false,
+    "type" : "richtext",
+    "default" : "<p data-pm-slice=\"1 1 []\">Natalie is the VP of Human Capital &amp; Outsourced Solutions, within the Business Transformation Services (BTS) division at WG Consulting. As a Certified Contingent Workforce Professional (CCWP), she has over 7 years of experience within the Staffing and Workforce Management industry. Throughout her career, Natalie has gained extensive experience building and managing Managed Service Provider (MSP) programs for several clients, including Fortune 500, global companies. Most notably, she has worked with clients to implement key deliverables ranging from MSP/VMS implementations, supplier management initiatives, client business reviews, personnel training, program compliance monitoring, cost savings management, and talent acquisition reporting and analysis. Always leading with a client-first mentality, Natalie is data-centric, results-driven, and an advocate for her portfolio of clients as they work toward Total Talent Management of their workforce.</p>"
+  } ],
+  "tab" : "CONTENT",
+  "expanded" : false,
+  "type" : "group",
+  "default" : {
+    "member_name" : "First Last",
+    "title" : "Title",
+    "card_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/Staff/staff-modal/dilivio-card.jpeg",
+      "alt" : "Natalie Dilivio",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    },
+    "linkedin_url" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com/in/ndilivio/",
+      "content_id" : null
+    },
+    "profile_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/whitney-cox.jpg",
+      "alt" : "Whitney Cox",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    },
+    "member_profile" : "<p data-pm-slice=\"1 1 []\">Natalie is the VP of Human Capital &amp; Outsourced Solutions, within the Business Transformation Services (BTS) division at WG Consulting. As a Certified Contingent Workforce Professional (CCWP), she has over 7 years of experience within the Staffing and Workforce Management industry. Throughout her career, Natalie has gained extensive experience building and managing Managed Service Provider (MSP) programs for several clients, including Fortune 500, global companies. Most notably, she has worked with clients to implement key deliverables ranging from MSP/VMS implementations, supplier management initiatives, client business reviews, personnel training, program compliance monitoring, cost savings management, and talent acquisition reporting and analysis. Always leading with a client-first mentality, Natalie is data-centric, results-driven, and an advocate for her portfolio of clients as they work toward Total Talent Management of their workforce.</p>"
+  }
+}, {
+  "id" : "bb77cb9d-2f9e-e221-5e77-30d31d5ec306",
+  "name" : "stephen_fedor",
+  "display_width" : null,
+  "label" : "Stephen Fedor",
+  "required" : false,
+  "locked" : false,
+  "children" : [ {
+    "id" : "af5df7ff-d2c2-44dd-b4d4-f4b57745d8c6",
+    "name" : "member_name",
+    "display_width" : null,
+    "label" : "Member Name",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "First Last",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "First Last"
+  }, {
+    "id" : "47016d53-6b3e-4422-11c1-7d51cf1d0dad",
+    "name" : "title",
+    "display_width" : null,
+    "label" : "Title",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "Title",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "Title"
+  }, {
+    "id" : "a24957ff-f013-e9f3-cdd9-c4116e749be8",
+    "name" : "card_image",
+    "display_width" : null,
+    "label" : "Card Image (400x400)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_stephen-fedor.jpg",
+      "alt" : "Stephen Fedor",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 394,
+      "max_width" : 400,
+      "max_height" : 394
+    }
+  }, {
+    "id" : "0399d7c5-de28-73bb-20b2-0eba26fb6856",
+    "name" : "linkedin_url",
+    "display_width" : null,
+    "label" : "Linkedin URL",
+    "required" : false,
+    "locked" : false,
+    "supported_types" : [ "EXTERNAL", "CONTENT", "FILE", "EMAIL_ADDRESS", "BLOG" ],
+    "type" : "url",
+    "default" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    }
+  }, {
+    "id" : "6c539d98-64da-e468-b7f0-5305d11289b5",
+    "name" : "profile_image",
+    "display_width" : null,
+    "label" : "Profile Image (650x780)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/stephen-fedor.jpg",
+      "alt" : "Stephen Fedor",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    }
+  }, {
+    "id" : "dc7ed799-4276-c927-f977-5ca842576160",
+    "name" : "member_profile",
+    "display_width" : null,
+    "label" : "Member Profile",
+    "required" : false,
+    "locked" : false,
+    "type" : "richtext",
+    "default" : "<p>Stephen is a Managing Director at WG Consulting. He has over 10 years of experience in building and leading Vendor Management System (VMS) and Managed Service Providers (MSP) teams in the Contingent Labor, Statement of Work (SOW) and headcount tracking areas. Stephen uses a consultative approach to client engagements leveraging over 300 client implementations with over $3B USD in annual spend across 2 industry leading VMS technologies (Fieldglass and VNDLY). He is PMP certified and has an MBA in Leadership and Change Management. Stephen has built highly successful implementation, customer success and product support teams. He has led large scale VMS projects at Fortune 500 companies like AT&amp;T, GE, Fidelity Investments and Waste Management. His core expertise includes extensive VMS and MSP Program Office implementation and customer success experiences. Stephen has had hands-on experience gathering business requirements, project management consultation, executive level business case delivery, SOW category management, strategic sourcing, supply chain optimization, issue and risk mitigation, organizational change management, business process redesign and project planning.</p>\n<h2 class=\"text-center md:text-left mb-3\">Representative Experience</h2>\n<ul class=\"listee\">\n<li>Managed over 300 global implementations of Vendor Management System (VMS), Self-Managed and Managed Service Providers (MSP). Tasks included leading requirements gathering sessions, business case development, stakeholder management including executive governance, organizational change management, system and process design, communications planning and execution, project management, and program execution</li>\n<li>VMS Professional Service Vice President (Implementation, Customer Success and Product Support)</li>\n<li>Development of Managed Service Provider (MSP) Partnership Enablement Program</li>\n<li>Led largest SAP Fieldglass engagement with over 200,000 workers, $500M USD annual spend in over 20 countries</li>\n<li>Implemented 30,000 workers across 18 countries for an American pharmaceutical company headquartered in Indianapolis, Indiana</li>\n<li>Supported creation of 26 Workday and 3 OKTA API integrations for industry leading VMS</li>\n<li>Piloted and created Delivery Executive role which eliminated VMS Executive escalations. Delivery Executive aligned with System Integrators like Deloitte, Accenture, PWC and SAP Account Executives.</li>\n<li>Developed VMS Gen 1 to Gen 2 optimized project schedule</li>\n<li>Established Customer Advocacy Board (CAB) at industry leading VMS</li>\n<li>Fully automated implementation, product support and customer success weekly KPI reporting to VMS Executive team</li>\n</ul>"
+  } ],
+  "tab" : "CONTENT",
+  "expanded" : false,
+  "type" : "group",
+  "default" : {
+    "member_name" : "First Last",
+    "title" : "Title",
+    "card_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_stephen-fedor.jpg",
+      "alt" : "Stephen Fedor",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 394,
+      "max_width" : 400,
+      "max_height" : 394
+    },
+    "linkedin_url" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    },
+    "profile_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/stephen-fedor.jpg",
+      "alt" : "Stephen Fedor",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    },
+    "member_profile" : "<p>Stephen is a Managing Director at WG Consulting. He has over 10 years of experience in building and leading Vendor Management System (VMS) and Managed Service Providers (MSP) teams in the Contingent Labor, Statement of Work (SOW) and headcount tracking areas. Stephen uses a consultative approach to client engagements leveraging over 300 client implementations with over $3B USD in annual spend across 2 industry leading VMS technologies (Fieldglass and VNDLY). He is PMP certified and has an MBA in Leadership and Change Management. Stephen has built highly successful implementation, customer success and product support teams. He has led large scale VMS projects at Fortune 500 companies like AT&amp;T, GE, Fidelity Investments and Waste Management. His core expertise includes extensive VMS and MSP Program Office implementation and customer success experiences. Stephen has had hands-on experience gathering business requirements, project management consultation, executive level business case delivery, SOW category management, strategic sourcing, supply chain optimization, issue and risk mitigation, organizational change management, business process redesign and project planning.</p>\n<h2 class=\"text-center md:text-left mb-3\">Representative Experience</h2>\n<ul class=\"listee\">\n<li>Managed over 300 global implementations of Vendor Management System (VMS), Self-Managed and Managed Service Providers (MSP). Tasks included leading requirements gathering sessions, business case development, stakeholder management including executive governance, organizational change management, system and process design, communications planning and execution, project management, and program execution</li>\n<li>VMS Professional Service Vice President (Implementation, Customer Success and Product Support)</li>\n<li>Development of Managed Service Provider (MSP) Partnership Enablement Program</li>\n<li>Led largest SAP Fieldglass engagement with over 200,000 workers, $500M USD annual spend in over 20 countries</li>\n<li>Implemented 30,000 workers across 18 countries for an American pharmaceutical company headquartered in Indianapolis, Indiana</li>\n<li>Supported creation of 26 Workday and 3 OKTA API integrations for industry leading VMS</li>\n<li>Piloted and created Delivery Executive role which eliminated VMS Executive escalations. Delivery Executive aligned with System Integrators like Deloitte, Accenture, PWC and SAP Account Executives.</li>\n<li>Developed VMS Gen 1 to Gen 2 optimized project schedule</li>\n<li>Established Customer Advocacy Board (CAB) at industry leading VMS</li>\n<li>Fully automated implementation, product support and customer success weekly KPI reporting to VMS Executive team</li>\n</ul>"
+  }
+}, {
+  "id" : "0a9f733c-a8f6-b156-19f2-56024c40ad69",
+  "name" : "melissa_gonzalez",
+  "display_width" : null,
+  "label" : "Melissa Gonzalez",
+  "required" : false,
+  "locked" : false,
+  "children" : [ {
+    "id" : "889ac8f6-3569-7581-7422-b92b73a70fba",
+    "name" : "member_name",
+    "display_width" : null,
+    "label" : "Member Name",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "First Last",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "First Last"
+  }, {
+    "id" : "f8f0b156-4054-521b-661d-821392a9d375",
+    "name" : "title",
+    "display_width" : null,
+    "label" : "Title",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "Title",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "Title"
+  }, {
+    "id" : "ca2cc2ec-ff69-198b-7f2e-e1d0742381aa",
+    "name" : "card_image",
+    "display_width" : null,
+    "label" : "Card Image (400x400)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_melissa-Gonzalez.jpg",
+      "alt" : "Melissa Gonzalez",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    }
+  }, {
+    "id" : "d12377ef-0d54-3ae2-2245-c25037bd981c",
+    "name" : "linkedin_url",
+    "display_width" : null,
+    "label" : "Linkedin URL",
+    "required" : false,
+    "locked" : false,
+    "supported_types" : [ "EXTERNAL", "CONTENT", "FILE", "EMAIL_ADDRESS", "BLOG" ],
+    "type" : "url",
+    "default" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    }
+  }, {
+    "id" : "df1430d7-ec25-2e44-03b1-0e72c102296a",
+    "name" : "profile_image",
+    "display_width" : null,
+    "label" : "Profile Image (650x780)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/melissa-gonzalez.jpg",
+      "alt" : "Melissa Gonzalez",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    }
+  }, {
+    "id" : "92b91ccd-c591-0993-d1bd-57b61f96394d",
+    "name" : "member_profile",
+    "display_width" : null,
+    "label" : "Member Profile",
+    "required" : false,
+    "locked" : false,
+    "type" : "richtext",
+    "default" : "<p>Melissa is an MSP Manager with extensive experience managing the day-to-day operations of contingent workforce programs for assigned clients. Her experience encompasses full life-cycle requisition management within VMS systems with a focus on candidate quality, time-to-fill, cost savings, and compliance. Melissa has strong experience supporting nation-wide, high-volume accounts and providing excellent customer service. She has extensive experience partnering with staffing agencies, hiring managers, internal recruitment teams, and internal program stakeholders to meet and exceed hiring needs.</p>"
+  } ],
+  "tab" : "CONTENT",
+  "expanded" : false,
+  "type" : "group",
+  "default" : {
+    "member_name" : "First Last",
+    "title" : "Title",
+    "card_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_melissa-Gonzalez.jpg",
+      "alt" : "Melissa Gonzalez",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    },
+    "linkedin_url" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    },
+    "profile_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/melissa-gonzalez.jpg",
+      "alt" : "Melissa Gonzalez",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    },
+    "member_profile" : "<p>Melissa is an MSP Manager with extensive experience managing the day-to-day operations of contingent workforce programs for assigned clients. Her experience encompasses full life-cycle requisition management within VMS systems with a focus on candidate quality, time-to-fill, cost savings, and compliance. Melissa has strong experience supporting nation-wide, high-volume accounts and providing excellent customer service. She has extensive experience partnering with staffing agencies, hiring managers, internal recruitment teams, and internal program stakeholders to meet and exceed hiring needs.</p>"
+  }
+}, {
+  "id" : "4d435959-779c-c780-7820-c65f93b66cd9",
+  "name" : "emily_griffin",
+  "display_width" : null,
+  "label" : "Emily Griffin",
+  "required" : false,
+  "locked" : false,
+  "children" : [ {
+    "id" : "da817047-996f-921d-629f-4f8cde70dde4",
+    "name" : "member_name",
+    "display_width" : null,
+    "label" : "Member Name",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "First Last",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "First Last"
+  }, {
+    "id" : "29e68609-36d5-07d1-bc74-6e969f585a49",
+    "name" : "title",
+    "display_width" : null,
+    "label" : "Title",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "Title",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "Title"
+  }, {
+    "id" : "f5045105-57e3-19f2-b169-0d3e23b6bf1c",
+    "name" : "card_image",
+    "display_width" : null,
+    "label" : "Card Image (400x400)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_emily-griffin.jpg",
+      "alt" : "Emily Griffin",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    }
+  }, {
+    "id" : "1a899980-9c9a-165e-2636-56491f0bd5f8",
+    "name" : "linkedin_url",
+    "display_width" : null,
+    "label" : "Linkedin URL",
+    "required" : false,
+    "locked" : false,
+    "supported_types" : [ "EXTERNAL", "CONTENT", "FILE", "EMAIL_ADDRESS", "BLOG" ],
+    "type" : "url",
+    "default" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    }
+  }, {
+    "id" : "22c164cb-25a6-0cc3-c61e-df1229ed5e71",
+    "name" : "profile_image",
+    "display_width" : null,
+    "label" : "Profile Image (650x780)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/emily-griffin.jpg",
+      "alt" : "Emily Griffin",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    }
+  }, {
+    "id" : "fe6751bb-fafd-9acb-7b51-2b772c510990",
+    "name" : "member_profile",
+    "display_width" : null,
+    "label" : "Member Profile",
+    "required" : false,
+    "locked" : false,
+    "type" : "richtext",
+    "default" : "<p>Emily is an MSP Director at WG Consulting. She has over 5 years of experience in the talent management and contingent workforce space. Emily has a wide range of exposure and expertise tied to the industry, including contingent workforce total program management, program compliance, new program implementation, strong reporting and analytics gathering, enact ability to grow and maintain business relationships, and personnel training and development. Emily has served in several MSP/VMS leadership roles for large Oil &amp; Gas clients and she now serves as a Sr. Consultant for the Total Talent Management practice area at WG Consulting.</p>"
+  } ],
+  "tab" : "CONTENT",
+  "expanded" : false,
+  "type" : "group",
+  "default" : {
+    "member_name" : "First Last",
+    "title" : "Title",
+    "card_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_emily-griffin.jpg",
+      "alt" : "Emily Griffin",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    },
+    "linkedin_url" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    },
+    "profile_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/emily-griffin.jpg",
+      "alt" : "Emily Griffin",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    },
+    "member_profile" : "<p>Emily is an MSP Director at WG Consulting. She has over 5 years of experience in the talent management and contingent workforce space. Emily has a wide range of exposure and expertise tied to the industry, including contingent workforce total program management, program compliance, new program implementation, strong reporting and analytics gathering, enact ability to grow and maintain business relationships, and personnel training and development. Emily has served in several MSP/VMS leadership roles for large Oil &amp; Gas clients and she now serves as a Sr. Consultant for the Total Talent Management practice area at WG Consulting.</p>"
+  }
+}, {
+  "id" : "e0ef3e2f-2dda-41ab-cce4-3a9473168c14",
+  "name" : "candice_hammer",
+  "display_width" : null,
+  "label" : "Candice Hammer",
+  "required" : false,
+  "locked" : false,
+  "children" : [ {
+    "id" : "b11f8487-383f-1e45-bc2d-57e18664d5e2",
+    "name" : "member_name",
+    "display_width" : null,
+    "label" : "Member Name",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "First Last",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "First Last"
+  }, {
+    "id" : "8e314a5d-3bc4-a887-7db7-006730a987af",
+    "name" : "title",
+    "display_width" : null,
+    "label" : "Title",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "Title",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "Title"
+  }, {
+    "id" : "16a7d492-2ce5-02ad-c94a-12ef51c31244",
+    "name" : "card_image",
+    "display_width" : null,
+    "label" : "Card Image (400x400)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_candice-hammer.jpg",
+      "alt" : "Candice Hammer",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    }
+  }, {
+    "id" : "1c2235bc-06f9-85fd-1157-c55553c6273d",
+    "name" : "linkedin_url",
+    "display_width" : null,
+    "label" : "Linkedin URL",
+    "required" : false,
+    "locked" : false,
+    "supported_types" : [ "EXTERNAL", "CONTENT", "FILE", "EMAIL_ADDRESS", "BLOG" ],
+    "type" : "url",
+    "default" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    }
+  }, {
+    "id" : "4dd03e52-540c-595f-9002-fa5aa2a259c7",
+    "name" : "profile_image",
+    "display_width" : null,
+    "label" : "Profile Image (650x780)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/candice-hammer.jpg",
+      "alt" : "Candice Hammer",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    }
+  }, {
+    "id" : "835316c2-99e2-80d0-5fb1-394cc69549f7",
+    "name" : "member_profile",
+    "display_width" : null,
+    "label" : "Member Profile",
+    "required" : false,
+    "locked" : false,
+    "type" : "richtext",
+    "default" : "<p>Candice is a Managing Director at WG Consulting. She brings over 17 years of experience in business leadership, organizational strategy, contingent workforce management, program design, project management and driving operational excellence. Candice is best known for building and leading strong delivery teams and creating robust talent management programs to support her clients' unique requirements to attract and retain talent. She has worked with multiple Fortune 500 companies to design, implement and manage their workforce programs across multiple industries, including two of the largest Oil &amp; Gas programs globally. Candice’s wealth of experience on both the buyer and supplier side makes her one of the industry's most well-rounded leaders to strategically design best-in-class Total Talent Management Programs.</p>\n<h2 class=\"text-center md:text-left mb-3\">Representative Experience</h2>\n<ul class=\"listee\">\n<li>Designed, implemented and managed over 25 National (6 Global) Contingent Workforce Management Programs</li>\n<li>Led Program Teams across multiple industries and categories of business to proactively manage talent demands</li>\n<li>Consulted organization on the design and management of their internal Total Talent Management Programs and the supporting ecosystem (including TA and Contingent Labor Support)</li>\n<li>Created Industry RFP’s and led the selection of MSP and VMS Partners to align clients' unique requirements</li>\n<li>Established metric-based program and culture to drive and track successful operations teams</li>\n<li>Reduced client's administrative workload and OPEX Costs by streamlining processes and integrating corporate systems (HRIS, VMS, ERP, Security)</li>\n<li>Trusted Industry Subject Matter Expert (SME) on Vendor Management System capabilities</li>\n<li>Cultivate Strategic Alliances with MSP, VMS, Suppliers, Payroll Providers and Freelance Community to support programs</li>\n<li>Responsible for establishing Preferred Vendor Programs for all human capitol talent and service providers</li>\n<li>Focus and align corporate initiatives to generate executive and stakeholder adoption and buy-in support through effective change management and planning</li>\n<li>Drive cost reduction and cost avoidance initiatives that have conservatively saved organizations up to 35% in operational expenses (hard and soft cost savings)</li>\n<li>Improved client business control processes through visibility, performance management and predictive forecasting capabilities</li>\n</ul>"
+  } ],
+  "tab" : "CONTENT",
+  "expanded" : false,
+  "type" : "group",
+  "default" : {
+    "member_name" : "First Last",
+    "title" : "Title",
+    "card_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_candice-hammer.jpg",
+      "alt" : "Candice Hammer",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    },
+    "linkedin_url" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    },
+    "profile_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/candice-hammer.jpg",
+      "alt" : "Candice Hammer",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    },
+    "member_profile" : "<p>Candice is a Managing Director at WG Consulting. She brings over 17 years of experience in business leadership, organizational strategy, contingent workforce management, program design, project management and driving operational excellence. Candice is best known for building and leading strong delivery teams and creating robust talent management programs to support her clients' unique requirements to attract and retain talent. She has worked with multiple Fortune 500 companies to design, implement and manage their workforce programs across multiple industries, including two of the largest Oil &amp; Gas programs globally. Candice’s wealth of experience on both the buyer and supplier side makes her one of the industry's most well-rounded leaders to strategically design best-in-class Total Talent Management Programs.</p>\n<h2 class=\"text-center md:text-left mb-3\">Representative Experience</h2>\n<ul class=\"listee\">\n<li>Designed, implemented and managed over 25 National (6 Global) Contingent Workforce Management Programs</li>\n<li>Led Program Teams across multiple industries and categories of business to proactively manage talent demands</li>\n<li>Consulted organization on the design and management of their internal Total Talent Management Programs and the supporting ecosystem (including TA and Contingent Labor Support)</li>\n<li>Created Industry RFP’s and led the selection of MSP and VMS Partners to align clients' unique requirements</li>\n<li>Established metric-based program and culture to drive and track successful operations teams</li>\n<li>Reduced client's administrative workload and OPEX Costs by streamlining processes and integrating corporate systems (HRIS, VMS, ERP, Security)</li>\n<li>Trusted Industry Subject Matter Expert (SME) on Vendor Management System capabilities</li>\n<li>Cultivate Strategic Alliances with MSP, VMS, Suppliers, Payroll Providers and Freelance Community to support programs</li>\n<li>Responsible for establishing Preferred Vendor Programs for all human capitol talent and service providers</li>\n<li>Focus and align corporate initiatives to generate executive and stakeholder adoption and buy-in support through effective change management and planning</li>\n<li>Drive cost reduction and cost avoidance initiatives that have conservatively saved organizations up to 35% in operational expenses (hard and soft cost savings)</li>\n<li>Improved client business control processes through visibility, performance management and predictive forecasting capabilities</li>\n</ul>"
+  }
+}, {
+  "id" : "07a95bc8-5807-08be-ced4-5f6c7a69d8fb",
+  "name" : "paige_heisser",
+  "display_width" : null,
+  "label" : "Paige Heisser",
+  "required" : false,
+  "locked" : false,
+  "children" : [ {
+    "id" : "91b763f4-af3f-7d04-d2fa-791b452f4170",
+    "name" : "member_name",
+    "display_width" : null,
+    "label" : "Member Name",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "First Last",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "Paige Heisser"
+  }, {
+    "id" : "8177b8ae-8c7f-a719-885b-a24187ded6ae",
+    "name" : "title",
+    "display_width" : null,
+    "label" : "Title",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "Title",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "Senior Manager"
+  }, {
+    "id" : "8b35a2e1-e990-554a-a122-d3c013859e4c",
+    "name" : "card_image",
+    "display_width" : null,
+    "label" : "Card Image (400x400)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/Staff/staff-card/_placeholder-woman-female.jpeg",
+      "alt" : "_placeholder-woman-female",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    }
+  }, {
+    "id" : "186b4567-c299-043f-6e42-4e9172dfe050",
+    "name" : "linkedin_url",
+    "display_width" : null,
+    "label" : "Linkedin URL",
+    "required" : false,
+    "locked" : false,
+    "supported_types" : [ "EXTERNAL", "CONTENT", "FILE", "EMAIL_ADDRESS", "BLOG" ],
+    "type" : "url",
+    "default" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com/in/paige-heisser-mba-18a51a11b/",
+      "content_id" : null
+    }
+  }, {
+    "id" : "f716708e-16b5-9d80-eda5-fae6eeab27c0",
+    "name" : "profile_image",
+    "display_width" : null,
+    "label" : "Profile Image (650x780)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/Staff/staff-modal/placeholder-woman-female.jpeg",
+      "alt" : "placeholder-woman-female",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    }
+  }, {
+    "id" : "711f5fa7-3d9e-4b61-5e5c-93f3b77133a0",
+    "name" : "member_profile",
+    "display_width" : null,
+    "label" : "Member Profile",
+    "required" : false,
+    "locked" : false,
+    "type" : "richtext",
+    "default" : "<p data-pm-slice=\"1 1 []\">Paige is a Senior Manager of Business Transformation Services (BTS) at WG Consulting. She brings 10 years of experience in the Supply Chain field focused on strategic sourcing, strategy development, process improvement and manufacturing. Paige has worked with Fortune 500 companies and has experience in the automotive and aerospace sectors. She has developed and implemented category management strategies for various manufactured goods. Paige brings several years of leadership experience and a proven track record of sustainable business results.</p>"
+  } ],
+  "tab" : "CONTENT",
+  "expanded" : false,
+  "type" : "group",
+  "default" : {
+    "member_name" : "Paige Heisser",
+    "title" : "Senior Manager",
+    "card_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/Staff/staff-card/_placeholder-woman-female.jpeg",
+      "alt" : "_placeholder-woman-female",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    },
+    "linkedin_url" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com/in/paige-heisser-mba-18a51a11b/",
+      "content_id" : null
+    },
+    "profile_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/Staff/staff-modal/placeholder-woman-female.jpeg",
+      "alt" : "placeholder-woman-female",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    },
+    "member_profile" : "<p data-pm-slice=\"1 1 []\">Paige is a Senior Manager of Business Transformation Services (BTS) at WG Consulting. She brings 10 years of experience in the Supply Chain field focused on strategic sourcing, strategy development, process improvement and manufacturing. Paige has worked with Fortune 500 companies and has experience in the automotive and aerospace sectors. She has developed and implemented category management strategies for various manufactured goods. Paige brings several years of leadership experience and a proven track record of sustainable business results.</p>"
+  }
+}, {
+  "id" : "729f8cc9-1243-c8e5-0b8a-4f11ab8b4baa",
+  "name" : "shawn_shackleford",
+  "display_width" : null,
+  "label" : "Shawn Shackleford",
+  "required" : false,
+  "locked" : false,
+  "children" : [ {
+    "id" : "561dd41c-8505-c191-9a7b-76ee78cef59c",
+    "name" : "member_name",
+    "display_width" : null,
+    "label" : "Member Name",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "First Last",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "First Last"
+  }, {
+    "id" : "66d1c1b7-be5b-acca-1132-b9521bdd33fc",
+    "name" : "title",
+    "display_width" : null,
+    "label" : "Title",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "Title",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "Title"
+  }, {
+    "id" : "957f2e84-7676-d6f0-e928-355b671de362",
+    "name" : "card_image",
+    "display_width" : null,
+    "label" : "Card Image (400x400)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/shawn-shackleford.jpg",
+      "alt" : "shawn shackleford",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 394,
+      "max_width" : 400,
+      "max_height" : 394
+    }
+  }, {
+    "id" : "b8dcc11c-b87d-0105-0ac3-115f450a8dfb",
+    "name" : "linkedin_url",
+    "display_width" : null,
+    "label" : "Linkedin URL",
+    "required" : false,
+    "locked" : false,
+    "supported_types" : [ "EXTERNAL", "CONTENT", "FILE", "EMAIL_ADDRESS", "BLOG" ],
+    "type" : "url",
+    "default" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    }
+  }, {
+    "id" : "904c49ba-125c-46e7-c8c0-f5d88a3e48a5",
+    "name" : "profile_image",
+    "display_width" : null,
+    "label" : "Profile Image (650x780)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/shawn-shackleford-modal.jpeg",
+      "alt" : "shawn shackleford",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    }
+  }, {
+    "id" : "b231c660-1c5d-c605-d993-333c6ee41b9b",
+    "name" : "member_profile",
+    "display_width" : null,
+    "label" : "Member Profile",
+    "required" : false,
+    "locked" : false,
+    "type" : "richtext",
+    "default" : "<p>Shawn is a Senior Vice President of Business Transformation Services (BTS) at WG Consulting. He brings over 16 years of experience in the Supply Chain field focused on strategic sourcing, strategy development and leading dynamic teams. Shawn has worked with multiple Fortune 500 companies and has experience in the energy and construction sectors. He has developed and implemented category management strategies for drilling &amp; completion services, hydrocarbons, marketing materials, and construction categories of spend. Shawn brings several years of leadership experience and a proven track record of sustainable business results.</p>"
+  } ],
+  "tab" : "CONTENT",
+  "expanded" : false,
+  "type" : "group",
+  "default" : {
+    "member_name" : "First Last",
+    "title" : "Title",
+    "card_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/shawn-shackleford.jpg",
+      "alt" : "shawn shackleford",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 394,
+      "max_width" : 400,
+      "max_height" : 394
+    },
+    "linkedin_url" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    },
+    "profile_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/shawn-shackleford-modal.jpeg",
+      "alt" : "shawn shackleford",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    },
+    "member_profile" : "<p>Shawn is a Senior Vice President of Business Transformation Services (BTS) at WG Consulting. He brings over 16 years of experience in the Supply Chain field focused on strategic sourcing, strategy development and leading dynamic teams. Shawn has worked with multiple Fortune 500 companies and has experience in the energy and construction sectors. He has developed and implemented category management strategies for drilling &amp; completion services, hydrocarbons, marketing materials, and construction categories of spend. Shawn brings several years of leadership experience and a proven track record of sustainable business results.</p>"
+  }
+}, {
+  "id" : "8170d2c3-a764-6fc8-8412-8815553d08e4",
+  "name" : "erin_robinson",
+  "display_width" : null,
+  "label" : "Erin Robinson",
+  "required" : false,
+  "locked" : false,
+  "children" : [ {
+    "id" : "bcc035d9-5dcd-38a4-ac1f-0772537579d8",
+    "name" : "member_name",
+    "display_width" : null,
+    "label" : "Member Name",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "First Last",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "First Last"
+  }, {
+    "id" : "92b679a8-4e01-767f-b17b-b2fc873c6b10",
+    "name" : "title",
+    "display_width" : null,
+    "label" : "Title",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "Title",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "Title"
+  }, {
+    "id" : "1e3d31b0-2abe-37b0-e426-018396e1cef9",
+    "name" : "card_image",
+    "display_width" : null,
+    "label" : "Card Image (400x400)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_erin-Robinson.jpg",
+      "alt" : "Erin Robinson",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    }
+  }, {
+    "id" : "c8e6bb84-d46e-3e9a-3045-9434490f40fa",
+    "name" : "linkedin_url",
+    "display_width" : null,
+    "label" : "Linkedin URL",
+    "required" : false,
+    "locked" : false,
+    "supported_types" : [ "EXTERNAL", "CONTENT", "FILE", "EMAIL_ADDRESS", "BLOG" ],
+    "type" : "url",
+    "default" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    }
+  }, {
+    "id" : "e855a16b-a900-802f-ac0a-1a3639552f29",
+    "name" : "profile_image",
+    "display_width" : null,
+    "label" : "Profile Image (650x780)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/erin-Robinson.jpg",
+      "alt" : "Erin Robinson",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    }
+  }, {
+    "id" : "0ecfe1bc-fbf7-6183-a92d-06cb5c405908",
+    "name" : "member_profile",
+    "display_width" : null,
+    "label" : "Member Profile",
+    "required" : false,
+    "locked" : false,
+    "type" : "richtext",
+    "default" : "<p>Erin is an MSP Director at WG Consulting. She has over 5 years of experience in Contingent Workforce specifically in the Healthcare space. Erin is recognized for her ability to provide onsite operational and tactical support, which includes the facilitation of the contingent workforce lifecycle, supplier management, and maintaining client relationships. Her core expertise includes Vendor Management System administration and training, requisition fulfillment, onboarding &amp; off-boarding coordination, compliance review and thorough understanding of HR related policies and procedures.</p>"
+  } ],
+  "tab" : "CONTENT",
+  "expanded" : false,
+  "type" : "group",
+  "default" : {
+    "member_name" : "First Last",
+    "title" : "Title",
+    "card_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_erin-Robinson.jpg",
+      "alt" : "Erin Robinson",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    },
+    "linkedin_url" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    },
+    "profile_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/erin-Robinson.jpg",
+      "alt" : "Erin Robinson",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    },
+    "member_profile" : "<p>Erin is an MSP Director at WG Consulting. She has over 5 years of experience in Contingent Workforce specifically in the Healthcare space. Erin is recognized for her ability to provide onsite operational and tactical support, which includes the facilitation of the contingent workforce lifecycle, supplier management, and maintaining client relationships. Her core expertise includes Vendor Management System administration and training, requisition fulfillment, onboarding &amp; off-boarding coordination, compliance review and thorough understanding of HR related policies and procedures.</p>"
+  }
+}, {
+  "id" : "76555bf9-5674-de45-c4ae-1ab62376f8c2",
+  "name" : "kp_xiang",
+  "display_width" : null,
+  "label" : "KP Xiang",
+  "required" : false,
+  "locked" : false,
+  "children" : [ {
+    "id" : "b28a1de9-c023-4c9f-621d-22bbb9b9d069",
+    "name" : "member_name",
+    "display_width" : null,
+    "label" : "Member Name",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "First Last",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "First Last"
+  }, {
+    "id" : "77f31d6d-6b05-fd00-67ff-b4341aac26cc",
+    "name" : "title",
+    "display_width" : null,
+    "label" : "Title",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "Title",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "Title"
+  }, {
+    "id" : "e598af55-6f24-301a-43a4-022e426225d2",
+    "name" : "card_image",
+    "display_width" : null,
+    "label" : "Card Image (400x400)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_kp-Xiang.jpg",
+      "alt" : "KP Xiang",
+      "loading" : "lazy",
+      "width" : 399,
+      "height" : 400,
+      "max_width" : 399,
+      "max_height" : 400
+    }
+  }, {
+    "id" : "d0e0191e-7738-c98e-f06e-7f70a9c91ae1",
+    "name" : "linkedin_url",
+    "display_width" : null,
+    "label" : "Linkedin URL",
+    "required" : false,
+    "locked" : false,
+    "supported_types" : [ "EXTERNAL", "CONTENT", "FILE", "EMAIL_ADDRESS", "BLOG" ],
+    "type" : "url",
+    "default" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    }
+  }, {
+    "id" : "f4549b70-a57c-b61d-c9e6-1a014158d029",
+    "name" : "profile_image",
+    "display_width" : null,
+    "label" : "Profile Image (650x780)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/kp-Xiang.jpg",
+      "alt" : "KP Xiang",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    }
+  }, {
+    "id" : "bed0131d-f02a-a456-0508-073be7f04629",
+    "name" : "member_profile",
+    "display_width" : null,
+    "label" : "Member Profile",
+    "required" : false,
+    "locked" : false,
+    "type" : "richtext",
+    "default" : "<p>KP is a Director at WG Consulting. He has over 10 years’ experience in the Automotive, Oil and Gas, and Strategy Consulting. KP’s core expertise includes strategic sourcing, cost reduction, contingent workforce management, program/project management, benchmarking/cost modeling, category management, and crisis management/program recovery. He is certified by the International Association for Contract and Commercial Management as a Contract &amp; Commercial Management Practitioner. He has a proven track record with internal and external stakeholders to deliver projects on or ahead of schedule and adapts well to the needs within organizations to achieve the company’s overall goals.</p>"
+  } ],
+  "tab" : "CONTENT",
+  "expanded" : false,
+  "type" : "group",
+  "default" : {
+    "member_name" : "First Last",
+    "title" : "Title",
+    "card_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_kp-Xiang.jpg",
+      "alt" : "KP Xiang",
+      "loading" : "lazy",
+      "width" : 399,
+      "height" : 400,
+      "max_width" : 399,
+      "max_height" : 400
+    },
+    "linkedin_url" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    },
+    "profile_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/kp-Xiang.jpg",
+      "alt" : "KP Xiang",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    },
+    "member_profile" : "<p>KP is a Director at WG Consulting. He has over 10 years’ experience in the Automotive, Oil and Gas, and Strategy Consulting. KP’s core expertise includes strategic sourcing, cost reduction, contingent workforce management, program/project management, benchmarking/cost modeling, category management, and crisis management/program recovery. He is certified by the International Association for Contract and Commercial Management as a Contract &amp; Commercial Management Practitioner. He has a proven track record with internal and external stakeholders to deliver projects on or ahead of schedule and adapts well to the needs within organizations to achieve the company’s overall goals.</p>"
+  }
+}, {
+  "id" : "62d77c82-183a-c356-ef5b-cb798e0a0fea",
+  "name" : "roger_burks",
+  "display_width" : null,
+  "label" : "Roger Burks",
+  "required" : false,
+  "locked" : false,
+  "children" : [ {
+    "id" : "80e3ac17-2c7d-48f9-a424-113d2a6a844d",
+    "name" : "member_name",
+    "display_width" : null,
+    "label" : "Member Name",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "First Last",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "First Last"
+  }, {
+    "id" : "15cd66af-99ff-9940-1d3f-64255686ec68",
+    "name" : "title",
+    "display_width" : null,
+    "label" : "Title",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "Title",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "Title"
+  }, {
+    "id" : "0ef5ab9a-6b70-e3a4-baa3-57e081875d8b",
+    "name" : "card_image",
+    "display_width" : null,
+    "label" : "Card Image (400 x 400)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_roger-burks.jpg",
+      "alt" : "Roger Burks",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    }
+  }, {
+    "id" : "8ff078ff-d322-ec40-35ec-09c97ba4b41a",
+    "name" : "linkedin_url",
+    "display_width" : null,
+    "label" : "Linkedin URL",
+    "required" : false,
+    "locked" : false,
+    "supported_types" : [ "EXTERNAL", "CONTENT", "FILE", "EMAIL_ADDRESS", "BLOG" ],
+    "type" : "url",
+    "default" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    }
+  }, {
+    "id" : "f8256569-c1a9-bc56-edeb-f683f4417485",
+    "name" : "profile_image",
+    "display_width" : null,
+    "label" : "Profile Image (650x780)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/roger-burks.jpg",
+      "alt" : "Roger Burks",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    }
+  }, {
+    "id" : "136e7456-d39f-2c17-beca-b2d00f20e61c",
+    "name" : "member_profile",
+    "display_width" : null,
+    "label" : "Member Profile",
+    "required" : false,
+    "locked" : false,
+    "type" : "richtext",
+    "default" : "<p>Roger Burks is the Chairman and Founder of WG Consulting. Mr. Burks is a CPA with over 40 years of business experience, including over 20 years with Deloitte and 20 years of experience as a senior executive in various industries. Mr. Burks’ experience also includes serving on both Public and Private Boards, funding new ventures and founding two management consulting firms. In addition to WG, he serves as a Private Equity Board Observer and Board Advisor for various private companies. He is an Advisory Board Member of the NACD Tri-City Chapter, a recognized National Association of Corporate Directors Board Fellow, and a founding member of the Private Directors Association. He also received the Lifetime Achievement Award from the Houston Chapter of CPAs in 2020.</p>\n<h2 class=\"text-center md:text-left mb-3\">Representative Experience</h2>\n<ul class=\"listee\">\n<li><span>Served as the Audit Partner on over thirty public companies. As Partner-in-Charge of Energy, he led significant projects for firm clients, including IPOs, acquisitions, divestitures, transformations, financing, and strategy.</span></li>\n<li><span>Established the structure of CFO organizations and staffed the functional areas (Accounting, Treasury, IT, FP&amp;A, Tax, HR).</span></li>\n<li><span>Led all aspects of a successful IPO. Including, Roadshow, pricing and closing.</span></li>\n<li><span>Led public debt financing offering and bank replacement financing.</span></li>\n<li><span>Managed all financial, accounting, treasury, and shareholder/investor relation aspects of a publicly held company and served on the Board of Directors.</span></li>\n<li><span>Led the implementation of internal control documentation and testing processes/procedures for Sarbanes-Oxley compliance.</span></li>\n<li><span>Actively involved in systems diagnostics and operational integration to automate, streamline, and maximize cost reductions and savings opportunities.</span></li>\n<li><span>Led continuous close processes and financial transformations through automation.</span></li>\n<li><span>Led risk management programs, treasury management, 401k and stock option plans, employee health and benefit programs and addressing human resource issues.</span></li>\n<li><span>Coordinated teams of up to one hundred individuals on multiple engagement projects including internal controls, Sarbanes-Oxley, financial reporting, energy risk management, acquisition due diligence, information systems consulting and special reporting.</span></li>\n<li><span>Securities and Exchange Commission experience:</span></li>\n<ul class=\"listee\">\n<li><span>All applicable filings on Form 10-K, 10-Q, and 8-K, as well as proxy statements, comfort letters and SEC comment responses associated with various filings.</span></li>\n<li><span>Debt offerings on Form S-3 and Form S-4 (conversion of 144a offerings)</span></li>\n<li><span>Carve-out and initial public equity offerings on Form S-1.</span></li>\n</ul>\n<li>Responsible for all monthly, quarterly, and annual financial reporting (internal and external consolidated entity and by product line, functional area, and location).</li>\n<li>Represented management and served on committees of the BOD, full BOD meetings and led quarterly earning calls.</li>\n<li>Served on Executive, Project Approval, SOX Steering, IT Governance, IPO Steering, Credit, Enterprise Risk Management and Disclosure Committees of various entities.</li>\n<li>Served as Executive Advisor and on a Board of Advisors for various emerging companies.</li>\n</ul>"
+  } ],
+  "tab" : "CONTENT",
+  "expanded" : false,
+  "type" : "group",
+  "default" : {
+    "member_name" : "First Last",
+    "title" : "Title",
+    "card_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_roger-burks.jpg",
+      "alt" : "Roger Burks",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    },
+    "linkedin_url" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    },
+    "profile_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/roger-burks.jpg",
+      "alt" : "Roger Burks",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    },
+    "member_profile" : "<p>Roger Burks is the Chairman and Founder of WG Consulting. Mr. Burks is a CPA with over 40 years of business experience, including over 20 years with Deloitte and 20 years of experience as a senior executive in various industries. Mr. Burks’ experience also includes serving on both Public and Private Boards, funding new ventures and founding two management consulting firms. In addition to WG, he serves as a Private Equity Board Observer and Board Advisor for various private companies. He is an Advisory Board Member of the NACD Tri-City Chapter, a recognized National Association of Corporate Directors Board Fellow, and a founding member of the Private Directors Association. He also received the Lifetime Achievement Award from the Houston Chapter of CPAs in 2020.</p>\n<h2 class=\"text-center md:text-left mb-3\">Representative Experience</h2>\n<ul class=\"listee\">\n<li><span>Served as the Audit Partner on over thirty public companies. As Partner-in-Charge of Energy, he led significant projects for firm clients, including IPOs, acquisitions, divestitures, transformations, financing, and strategy.</span></li>\n<li><span>Established the structure of CFO organizations and staffed the functional areas (Accounting, Treasury, IT, FP&amp;A, Tax, HR).</span></li>\n<li><span>Led all aspects of a successful IPO. Including, Roadshow, pricing and closing.</span></li>\n<li><span>Led public debt financing offering and bank replacement financing.</span></li>\n<li><span>Managed all financial, accounting, treasury, and shareholder/investor relation aspects of a publicly held company and served on the Board of Directors.</span></li>\n<li><span>Led the implementation of internal control documentation and testing processes/procedures for Sarbanes-Oxley compliance.</span></li>\n<li><span>Actively involved in systems diagnostics and operational integration to automate, streamline, and maximize cost reductions and savings opportunities.</span></li>\n<li><span>Led continuous close processes and financial transformations through automation.</span></li>\n<li><span>Led risk management programs, treasury management, 401k and stock option plans, employee health and benefit programs and addressing human resource issues.</span></li>\n<li><span>Coordinated teams of up to one hundred individuals on multiple engagement projects including internal controls, Sarbanes-Oxley, financial reporting, energy risk management, acquisition due diligence, information systems consulting and special reporting.</span></li>\n<li><span>Securities and Exchange Commission experience:</span></li>\n<ul class=\"listee\">\n<li><span>All applicable filings on Form 10-K, 10-Q, and 8-K, as well as proxy statements, comfort letters and SEC comment responses associated with various filings.</span></li>\n<li><span>Debt offerings on Form S-3 and Form S-4 (conversion of 144a offerings)</span></li>\n<li><span>Carve-out and initial public equity offerings on Form S-1.</span></li>\n</ul>\n<li>Responsible for all monthly, quarterly, and annual financial reporting (internal and external consolidated entity and by product line, functional area, and location).</li>\n<li>Represented management and served on committees of the BOD, full BOD meetings and led quarterly earning calls.</li>\n<li>Served on Executive, Project Approval, SOX Steering, IT Governance, IPO Steering, Credit, Enterprise Risk Management and Disclosure Committees of various entities.</li>\n<li>Served as Executive Advisor and on a Board of Advisors for various emerging companies.</li>\n</ul>"
+  }
+}, {
+  "id" : "7906970a-be24-feaf-7b25-c2d9bb4a7a42",
+  "name" : "todd_rimmer",
+  "display_width" : null,
+  "label" : "Todd Rimmer",
+  "required" : false,
+  "locked" : false,
+  "children" : [ {
+    "id" : "01ba0e62-ffba-41fd-47b0-07c306d43192",
+    "name" : "member_name",
+    "display_width" : null,
+    "label" : "Member Name",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "First Last",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "First Last"
+  }, {
+    "id" : "5994948a-712a-d1cc-45bd-a78fd4cf1db7",
+    "name" : "title",
+    "display_width" : null,
+    "label" : "Title",
+    "required" : false,
+    "locked" : false,
+    "validation_regex" : "",
+    "placeholder" : "Title",
+    "allow_new_line" : false,
+    "show_emoji_picker" : false,
+    "type" : "text",
+    "default" : "Title"
+  }, {
+    "id" : "b1c63c40-77e5-e041-229e-0f8a75fdad45",
+    "name" : "card_image",
+    "display_width" : null,
+    "label" : "Card Image (400x400)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_todd-rimmer.jpg",
+      "alt" : "_todd-rimmer",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    }
+  }, {
+    "id" : "1c45f876-2b59-5082-ac99-baa0e7dbd253",
+    "name" : "linkedin_url",
+    "display_width" : null,
+    "label" : "Linkedin URL",
+    "required" : false,
+    "locked" : false,
+    "supported_types" : [ "EXTERNAL", "CONTENT", "FILE", "EMAIL_ADDRESS", "BLOG" ],
+    "type" : "url",
+    "default" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    }
+  }, {
+    "id" : "67d9c25f-9086-447d-9841-640a28e69fff",
+    "name" : "profile_image",
+    "display_width" : null,
+    "label" : "Profile Image (650x780)",
+    "required" : false,
+    "locked" : false,
+    "responsive" : true,
+    "resizable" : false,
+    "show_loading" : false,
+    "type" : "image",
+    "default" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/todd-rimmer.jpg",
+      "alt" : "todd-rimmer",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    }
+  }, {
+    "id" : "6cb6f12d-778b-cf34-5fc8-f3247ba94e07",
+    "name" : "member_profile",
+    "display_width" : null,
+    "label" : "Member Profile",
+    "required" : false,
+    "locked" : false,
+    "type" : "richtext",
+    "default" : "<p>Todd Rimmer serves as the Chief Executive Officer of WG Consulting, LLC and is a CPA with approximately 30 years of experience. His focus is providing Financial and Business Advisory Services for private, public, and private equity backed companies in the oil field service, manufacturing, energy trading and upstream areas. Prior to joining WG, Todd was the senior vice president and Chief Financial Officer of Valerus Compression Services. His responsibilities included domestic and international accounting, finance, treasury, tax, information technology, and financial planning and analysis. Prior to joining Valerus, Todd was the senior vice president and Chief Financial Officer of Sequent Energy Management a wholly owned subsidiary of AGL Resources (currently Southern Company) involved in natural gas asset management and optimization, producer services, wholesale marketing and risk management activities. He was also with American Electric Power (AEP) in Columbus, Ohio where he served as the director of financial reporting and was responsible for the corporate level consolidation and internal/external reporting for AEP’s eleven public registrants, as well as all other regulatory and non-public filings. He began his career with Deloitte, where he achieved the level of senior manager and focused primarily on energy trading, oil field service, manufacturing, and independent power producer clients.</p>\n<h2 class=\"text-center md:text-left mb-3\">Representative Experience</h2>\n<ul class=\"listee\">\n<li>Served as a strategic partner to the CEO, BOD and Private Equity owners.</li>\n<li>Represented entities in Audit Committee’s and Finance &amp; Risk Management Committees of the BOD, full BOD meetings and quarterly earnings calls with lenders and investors.</li>\n<li>Served on Executive, Project Approval, SOX Steering, IT Governance, IPO Steering, Credit, Enterprise Risk Management and Disclosure Committees of various entities.</li>\n<li>Created/reorganized CFO organizations and staffed the functional areas (Accounting, Treasury, IT, FP&amp;A, Tax).</li>\n<li>Drafted S-1’s and prepared for Sarbanes-Oxley compliance for future IPO’s as well as represented companies on road shows.</li>\n<li>Strategic planning with a near-term and multi-year focus.</li>\n<li>Prepared and delivered data provided to analysts, investors, rating agencies and the SEC.</li>\n<li>Evaluated, modified, and created processes, policies, and controls at organizations in order to reduce manual journal entries, reduce/eliminate audit adjustments, increase the accuracy of financial reporting and forecasting and shorten the close cycle.</li>\n<li>Reorganized ERP systems to report results and forecast by discrete product lines as well as detailed SG&amp;A reporting.</li>\n<li>Replaced bridge loan financing with other capital sources (i.e. Mezzanine debt) and amended and extended ABL facilities.</li>\n<li>Responsible for all monthly, quarterly, and annual financial reporting (internal and external), earnings, cash and capital forecasting and budgeting at the consolidated entity by product line, functional area, and location.</li>\n<li>Securities and Exchange Commission experience:</li>\n<ul class=\"listee\">\n<li>Filings on Form 10-K, 10-Q and 8-K, as well as proxy statements, comfort letters and SEC comment responses associated with various filings</li>\n<li>Debt offerings on Form S-3 and Form S-4 (conversion of 144a offerings)</li>\n<li>Carve-out and initial public equity offerings on Form S-1, including MLP’s and SPACs</li>\n</ul>\n<li>Long-term contract analysis: commodity purchase and sale, power supply, fuel purchase, service, lease and construction (including POC).</li>\n</ul>"
+  } ],
+  "tab" : "CONTENT",
+  "expanded" : false,
+  "type" : "group",
+  "default" : {
+    "member_name" : "First Last",
+    "title" : "Title",
+    "card_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-card/_todd-rimmer.jpg",
+      "alt" : "_todd-rimmer",
+      "loading" : "lazy",
+      "width" : 400,
+      "height" : 400,
+      "max_width" : 400,
+      "max_height" : 400
+    },
+    "linkedin_url" : {
+      "type" : "EXTERNAL",
+      "href" : "https://www.linkedin.com",
+      "content_id" : null
+    },
+    "profile_image" : {
+      "size_type" : "auto",
+      "src" : "https://22019063.fs1.hubspotusercontent-na1.net/hubfs/22019063/img/staff/staff-modal/todd-rimmer.jpg",
+      "alt" : "todd-rimmer",
+      "loading" : "lazy",
+      "width" : 650,
+      "height" : 780,
+      "max_width" : 650,
+      "max_height" : 780
+    },
+    "member_profile" : "<p>Todd Rimmer serves as the Chief Executive Officer of WG Consulting, LLC and is a CPA with approximately 30 years of experience. His focus is providing Financial and Business Advisory Services for private, public, and private equity backed companies in the oil field service, manufacturing, energy trading and upstream areas. Prior to joining WG, Todd was the senior vice president and Chief Financial Officer of Valerus Compression Services. His responsibilities included domestic and international accounting, finance, treasury, tax, information technology, and financial planning and analysis. Prior to joining Valerus, Todd was the senior vice president and Chief Financial Officer of Sequent Energy Management a wholly owned subsidiary of AGL Resources (currently Southern Company) involved in natural gas asset management and optimization, producer services, wholesale marketing and risk management activities. He was also with American Electric Power (AEP) in Columbus, Ohio where he served as the director of financial reporting and was responsible for the corporate level consolidation and internal/external reporting for AEP’s eleven public registrants, as well as all other regulatory and non-public filings. He began his career with Deloitte, where he achieved the level of senior manager and focused primarily on energy trading, oil field service, manufacturing, and independent power producer clients.</p>\n<h2 class=\"text-center md:text-left mb-3\">Representative Experience</h2>\n<ul class=\"listee\">\n<li>Served as a strategic partner to the CEO, BOD and Private Equity owners.</li>\n<li>Represented entities in Audit Committee’s and Finance &amp; Risk Management Committees of the BOD, full BOD meetings and quarterly earnings calls with lenders and investors.</li>\n<li>Served on Executive, Project Approval, SOX Steering, IT Governance, IPO Steering, Credit, Enterprise Risk Management and Disclosure Committees of various entities.</li>\n<li>Created/reorganized CFO organizations and staffed the functional areas (Accounting, Treasury, IT, FP&amp;A, Tax).</li>\n<li>Drafted S-1’s and prepared for Sarbanes-Oxley compliance for future IPO’s as well as represented companies on road shows.</li>\n<li>Strategic planning with a near-term and multi-year focus.</li>\n<li>Prepared and delivered data provided to analysts, investors, rating agencies and the SEC.</li>\n<li>Evaluated, modified, and created processes, policies, and controls at organizations in order to reduce manual journal entries, reduce/eliminate audit adjustments, increase the accuracy of financial reporting and forecasting and shorten the close cycle.</li>\n<li>Reorganized ERP systems to report results and forecast by discrete product lines as well as detailed SG&amp;A reporting.</li>\n<li>Replaced bridge loan financing with other capital sources (i.e. Mezzanine debt) and amended and extended ABL facilities.</li>\n<li>Responsible for all monthly, quarterly, and annual financial reporting (internal and external), earnings, cash and capital forecasting and budgeting at the consolidated entity by product line, functional area, and location.</li>\n<li>Securities and Exchange Commission experience:</li>\n<ul class=\"listee\">\n<li>Filings on Form 10-K, 10-Q and 8-K, as well as proxy statements, comfort letters and SEC comment responses associated with various filings</li>\n<li>Debt offerings on Form S-3 and Form S-4 (conversion of 144a offerings)</li>\n<li>Carve-out and initial public equity offerings on Form S-1, including MLP’s and SPACs</li>\n</ul>\n<li>Long-term contract analysis: commodity purchase and sale, power supply, fuel purchase, service, lease and construction (including POC).</li>\n</ul>"
+  }
+} ]
